@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Nyala](https://nyala.dev)
+- 🔭 Building #tech4good with [Nyala](https://nyala.dev)
 - 💬 Ask me about React.JS, Node.JS, AWS, Java, APM
 - 📫 How to reach me: [KhalidElshafie](https://youtube.com/c/KhalidElshafie) [@abolkog](https://twitter.com/abolkog) [@abolkog](https://instagram.com/abolkog)
 - ⚡ Fun fact: I found this by complete accident ... thanks `typo` 🤣
