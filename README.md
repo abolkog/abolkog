@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 Building #tech4good with [Nyala](https://nyala.dev)
-- 💬 Ask me about React.JS, Node.JS, AWS, Java, APM
-- 📫 How to reach me: [KhalidElshafie](https://youtube.com/c/KhalidElshafie) [@abolkog](https://twitter.com/abolkog) [@abolkog](https://instagram.com/abolkog)
+- 💬 Ask me about React.js, Node.js, AWS, Strapi, Serverless
+- 📫 How to reach me: [My Youtube Channel](https://youtube.com/c/KhalidElshafie) or [Twitter @abolkog](https://twitter.com/abolkog)
 - ⚡ Fun fact: I found this by complete accident ... thanks `typo` 🤣
 
 <!--
