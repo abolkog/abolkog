@@ -8,6 +8,7 @@
    - Some of our commercial projects: [BTheCrew](https://apps.apple.com/us/app/bthecrew/id1544389891) (react-native, firebase), [Carousel](https://apps.apple.com/us/app/carousel-sel-for-all/id1532592043) (react-native, react, node, aws), [SSC](https://ssc-sudan.org) (gatsby, aws, strapi, stripe, lambdas), and more.
 
 - 💬 Ask me about React.js, Node.js, AWS, Strapi, Serverless
+- 📖 Author of : [Designing Web APIs with Strapi - Get started with the Strapi headless CMS by building a complete learning management system API](https://amzn.to/3rf7tPy)
 - 📫 How to reach me: [My Youtube Channel](https://youtube.com/c/KhalidElshafie) or [Twitter @abolkog](https://twitter.com/abolkog)
 
 
