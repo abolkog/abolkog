@@ -1,28 +1,45 @@
-### Hi there 👋
+## 👋🏽 Hi, I'm Khalid
 
-- 🔭 Building #tech4good with [nyala](https://nyalatech.com.au). Some of our projects are:
-   - [barmaga.io](https://barmaga.io) is a platform to learn programming in Amharic 🇪🇹, Arabic 🇸🇩 and Swahili. 💰 Support Barmaga on [chuffed.org](https://chuffed.org/project/barmagaio) to keep the project going 💰
-   - [howdiverse.is](https://howdiverse.is) analyses ethnical and gender diversity in Tech and Media using Deep Learning.
-   - Dawa: a mobile app to find medicine in Khartoum.
-   - BashirCountdown.com: An SMS gateway to circumvent internet blocking in Sudan during the 2018 revolution.
-   - Some of our commercial projects: [Carousel](https://apps.apple.com/us/app/carousel-sel-for-all/id1532592043) (react-native, react, node, aws), [SSC](https://ssc-sudan.org) (gatsby, aws, Strapi, Stripe, lambdas), BTheCrew (react-native, firebase) and more.
-
-- 💬 Ask me about React.js, Node.js, AWS, Strapi, Serverless
-- 📖 Author of : [Designing Web APIs with Strapi - Get started with the Strapi headless CMS by building a complete learning management system API](https://amzn.to/3rf7tPy)
-- 📫 How to reach me: [My Youtube Channel](https://youtube.com/c/KhalidElshafie) or [Twitter @abolkog](https://twitter.com/abolkog) or [nyala website](https://nyalatech.com.au)
+I’m passionate about building **#tech4good** with [nyala](https://nyalatech.com.au), a tiny dev house co-founded with my lifelong friend [@kabaros](https://github.com/kabaros). We create impactful tech solutions, focusing on education, accessibility, and empowering marginalised communities.
 
 
-<!--
-**abolkog/abolkog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects I’m Working/Worked On
 
-Here are some ideas to get you started:
+- **[barmaga.io](https://barmaga.io)**  
+  Learn programming in **Amharic 🇪🇹, Arabic 🇸🇩, and Swahili**.  
+  ➕ [Support Barmaga on Chuffed](https://chuffed.org/project/barmagaio) to help us keep it alive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[howdiverse.is](https://howdiverse.is)**  
+  A data-driven tool analyzing **ethnic and gender diversity** in Tech & Media using deep learning.
+
+- **Dawa**  
+  A mobile app that helps users **find medicine** in Khartoum during times of scarcity.
+
+- **[BashirCountdown.com](https://bashircountdown.com)** *(archived)*  
+  An **SMS-based internet workaround** used during the Sudanese 2018 revolution to spread real-time updates.
+
+### 💼 Selected Commercial Projects
+- [**Carousel**](https://apps.apple.com/us/app/carousel-sel-for-all/id1532592043) – React Native, AWS  
+- [**SSC Sudan**](https://ssc-sudan.org) – Gatsby, Strapi, AWS, Stripe  
+- **BTheCrew** – React Native, Firebase  
+...and more under [nyala](https://nyalatech.com.au)
+
+### 💬 Ask Me About
+
+- **Full-Stack Development**: Building scalable, end-to-end solutions with React, Node.js, and TypeScript
+- **Cloud & Backend**: Leveraging AWS and GCP for high-performance, scalable applications with Serverless architectures and managed services
+- **CMS & API Development**: Designing and building powerful web APIs using Node.js, Strapi and GraphQL
+- **Frontend Frameworks**: Crafting modern, user-centric interfaces with React.js, Redux, and Next.js
+- **TypeScript**: Writing maintainable, type-safe code to improve developer experience and scalability
+
+
+
+### 📚 Author  
+**[Designing Web APIs with Strapi](https://amzn.to/3rf7tPy)**  
+A practical guide to building a complete LMS API using Strapi CMS.
+  
+
+### 📫 Let’s Connect
+
+- [Website](https://nyalatech.com.au)
+- [YouTube: Khalid Elshafie](https://youtube.com/c/KhalidElshafie)  
